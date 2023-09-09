@@ -37,22 +37,22 @@ Major Features for Analysis:
 
 We will analyze the following major features:
 
-Offer Price
-Discounts
-Categories
-Original Price
-Ratings
-Features of Hotels
-Libraries Used:
+<br>Offer Price
+<br>Discounts
+<br>Categories
+<br>Original Price
+<br>Ratings
+<br>Features of Hotels
+<br>Libraries Used:
 
-Some of the libraries and tools used for this EDA project include:
+<br>Some of the libraries and tools used for this EDA project include:
 
-Python
-Jupyter Notebook
-NumPy
-Pandas
-Matplotlib
-Seaborn
+<br>Python
+<br>Jupyter Notebook
+<br>NumPy
+<br>Pandas
+<br>Matplotlib
+<br>Seaborn
 
 
 Prerequisites:
