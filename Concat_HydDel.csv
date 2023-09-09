@@ -1,0 +1,327 @@
+,City,Category,Hotel_Name,Locality,Original Price,Discount,Offer Price,Star Rating,Rating,Remarks,Wi-Fi,CCTV Cameras,Doctor on Call,Parking Facility,Power backup,Elevator,Reception,AC
+0,Hyderabad,SPOT ON,ON 37214 Classic Lodge,Near Board Of Intermediate Office,1190,65,406,4.5,870,Excellent,no,no,no,no,no,no,no,no
+1,Hyderabad,OYO,24204 Nav Bharath Residency,Near Central Gurudwara Saheb,3017,67,978,4.4,988,Very,yes,yes,yes,yes,yes,yes,yes,yes
+2,Hyderabad,OYO,35467 Shiridi Residency,Near Chermas,2226,54,1014,4.7,937,Excellent,yes,yes,yes,yes,yes,yes,yes,yes
+3,Hyderabad,SPOT ON,ON 75815 Hotel Kanha Residency,India,1233,72,338,3.8,394,Good,no,no,no,no,no,no,no,no
+4,Hyderabad,OYO,74978 Hotel Aadaab,Near Nampally railway station,2317,72,646,3.3,240,Fair,yes,yes,yes,yes,yes,yes,yes,yes
+5,Hyderabad,SPOT ON,ON 80705 Balaji Residency,Hyderabad,1074,74,272,3.1,799,Fair,no,no,no,no,no,no,no,no
+6,Hyderabad,SPOT ON,ON 72246 Gayatri Lodge,Ranigunj,2051.950704,71,266,3.8,286,Good,yes,yes,yes,yes,yes,yes,yes,yes
+7,Hyderabad,OYO,16428 Hotel Vaishnavi Inn,Secunderabad,1920,53,891,4.4,2453,Very,yes,yes,yes,yes,yes,yes,yes,yes
+8,Hyderabad,OYO,77239 Hotel Rajdhani,Beside Bharat Petrol pump. opp Matro Station pillor Number- 1206. Lakdikapul Hyderabad,2298,70,687,2.9,165,Fair,no,no,no,no,no,no,no,no
+9,Hyderabad,OYO,88350 Hanuma Residency,Behind OZONE Hospital·       6.9 km,1431,47,751,4.9,28,Fabulous,no,no,no,no,no,no,no,no
+10,Hyderabad,SPOT ON,ON 81775 MOHIT GOKUL LODGE NEW ROOM'S,NEAR TO SECUNDERBAD EAST METRO RAIL STATION,1248,69,376,3.9,326,Good,yes,yes,yes,yes,yes,yes,yes,yes
+11,Hyderabad,OYO,19365 Hotel Sabharwal,Near Grand Hotel ,1729,68,549,3,434,Fair,yes,yes,yes,yes,yes,yes,yes,yes
+12,Hyderabad,OYO,73783 Hotel Sai Pariwar,500027,1433,69,437,3.7,336,Good,yes,yes,yes,yes,yes,yes,yes,yes
+13,Hyderabad,OYO,HYD1589 Hotel Dhana Residency,India,1248,73,330,2.8,265,Fair,no,no,no,no,no,no,no,no
+14,Hyderabad,OYO,Home 79961 Comfortable Stays,Hyderabad,2364,47,1241,4.3,836,Very,yes,yes,yes,yes,yes,yes,yes,yes
+15,Hyderabad,Collection O,O 36047 Hotel Srinivasa Residency,Near Global Hospital,1730,61,664,2.9,241,Fair,yes,yes,yes,yes,yes,yes,yes,yes
+16,Hyderabad,SPOT ON,ON 80478 Hotel Baba Classic,#7-2-971 & 977 Opp Hanuman Kaman sajjanial street Monda Market Hyderabad.,1344,76,317,2.7,119,Fair,no,no,no,no,no,no,no,no
+17,Hyderabad,Capital O,O 71317 White Ridge,Near Khazana Jewellery,3059,47,1606,4.5,2047,Excellent,yes,yes,yes,yes,yes,yes,yes,yes
+18,Hyderabad,Collection O,O 68920 Hotel V Square,Near Nampally Metro Station,2150,66,730,3.8,47,Good,no,no,no,no,no,no,no,no
+19,Hyderabad,OYO,86305 Hotel Aroma Classic,15-1-309 feelkhana near acharaya bhavan baba ramdav mandir bagum bazar Hyderabad 500012,1801,67,586,4.2,101,Very,yes,yes,yes,yes,yes,yes,yes,yes
+20,Hyderabad,SPOT ON,ON 75390 Bhavani Rest Rooms,India,1143,66,388,3.3,581,Fair,no,no,no,no,no,no,no,no
+21,Hyderabad,SPOT ON,ON 80753 Sri Sai Amaravathi Lodge,Opposite to metro pillar number A1115,1344,61,523,3,356,Fair,no,no,no,no,no,no,no,no
+22,Hyderabad,OYO,49253 Raja Residency,Near Raja Deluxe Complex,2035,55,898,4.3,3390,Very,no,no,no,no,no,no,no,no
+23,Hyderabad,SPOT ON,ON 81308 Gokul Residency,Near Ganesh temple,1344,69,414,3.1,215,Fair,no,no,no,no,no,no,no,no
+24,Hyderabad,OYO,40852 Hotel White Ridge,Near Dilsukhnagar metro station,1931,47,1014,4,1225,Very,yes,yes,yes,yes,yes,yes,yes,yes
+25,Hyderabad,OYO,70927 Hotel Hyderabad Continental,Near Tarakarama Theatre,2051.950704,55,412,3.6,423,Good,no,no,no,no,no,no,no,no
+26,Hyderabad,Capital O,O 85402 Sri Sai Regency,Hyderabad,2080,64,747,3.7,100,Good,no,no,no,no,no,no,no,no
+27,Hyderabad,SPOT ON,ON 68046 Rainbow Hotel,Hyderabad,1172,61,447,3.9,404,Good,no,no,no,no,no,no,no,no
+28,Hyderabad,OYO,40272 Hotel Srinivasa Inn,India,1654,57,695,2.8,86,Fair,yes,yes,yes,yes,yes,yes,yes,yes
+29,Hyderabad,SPOT ON,ON 78138 New Hi-tech Lodge,Telangana,2051.950704,57,389,2.9,190,Fair,no,no,no,no,no,no,no,no
+30,Hyderabad,OYO,Flagship 77043 Malkajgiri,Malkajgiri,2239,69,675,4,1745,Very,yes,yes,yes,yes,yes,yes,yes,yes
+31,Hyderabad,OYO,79037 Metro Lodge,Charminar,1726,55,775,3.8,121,Good,yes,yes,yes,yes,yes,yes,yes,yes
+32,Hyderabad,OYO,70743 Hotel White House Silverkey,Near Apollo Hospital,1580,65,541,2.8,63,Fair,no,no,no,no,no,no,no,no
+33,Hyderabad,OYO,Flagship 60541 White Ridge,Near Sai Sanjeevani Hospital,1904,52,904,4,2299,Very,no,no,no,no,no,no,no,no
+34,Hyderabad,Capital O,O 82995 Sai Leela Residency,Telangana,2157,74,549,3.2,36,Fair,no,no,no,no,no,no,no,no
+35,Hyderabad,OYO,9796 Hotel Alekhya Residency,Near Global Hospital,2069,50,1014,3.8,765,Good,yes,yes,yes,yes,yes,yes,yes,yes
+36,Hyderabad,SPOT ON,ON 43890 Kaveri Lodge,Near Kamineni Hospital,1344,68,422,3.7,1076,Good,no,no,no,no,no,no,no,no
+37,Hyderabad,Collection O,O 81767 Abhi's R Square,Greater Hyderabad Municipal Corporation East Zone,1931,54,879,4,480,Very,no,no,no,no,no,no,no,no
+38,Hyderabad,SPOT ON,ON 45433 Sree Radha Lodge,Near Guru dwara,1344,79,272,3.8,370,Good,no,no,no,no,no,no,no,no
+39,Hyderabad,OYO,89189 Pratap Luxery Properties,Hyderabad,2315,47,1216,3.846496815,8,Fair,yes,yes,yes,yes,yes,yes,yes,yes
+40,Hyderabad,SPOT ON,ON 74055 Panchavati Residency Hotel,Near Metro Pillar no.954,1333,63,487,3.4,433,Fair,no,no,no,no,no,no,no,no
+41,Hyderabad,OYO,22907 Hotel Holiday,M.G Road,1816,57,772,3.9,1225,Good,yes,yes,yes,yes,yes,yes,yes,yes
+42,Hyderabad,OYO,13300 Hotel New Platinum,Saleemnagar Colony,1995,55,891,3.8,492,Good,yes,yes,yes,yes,yes,yes,yes,yes
+43,Hyderabad,SPOT ON,ON 83852 Viand Grand,India,1439,66,479,3.2,56,Fair,yes,yes,yes,yes,yes,yes,yes,yes
+44,Hyderabad,Collection O,O 82763 Hotel Rahul International,India,2534,73,664,2.8,19,Fair,yes,yes,yes,yes,yes,yes,yes,yes
+45,Hyderabad,OYO,89208 Devi Residency,India,2315,47,1216,3.846496815,8,Fair,yes,yes,yes,yes,yes,yes,yes,yes
+46,Hyderabad,OYO,28637 Gokul Grand,Near SR Nagar Police station,3675,47,1930,4.5,2723,Excellent,yes,yes,yes,yes,yes,yes,yes,yes
+47,Hyderabad,OYO,82310 Holiday Inn,Telangana,1777,47,933,4.2,871,Very,no,no,no,no,no,no,no,no
+48,Hyderabad,OYO,FLAGSHIP 76687 Ramoji Kothapet,Kothapet,2315,61,899,3.9,3317,Good,yes,yes,yes,yes,yes,yes,yes,yes
+49,Hyderabad,SPOT ON,ON 82532 Hotel Vivin,India,1000,62,371,3.3,294,Fair,yes,yes,yes,yes,yes,yes,yes,yes
+50,Hyderabad,OYO,85469 Star Residential Hotel,Chandrayangutta,1632,61,625,2.4,10,Fair,yes,yes,yes,yes,yes,yes,yes,yes
+51,Hyderabad,OYO,69510 Hotel 3m,Near Nampally Metro Station,1875,47,985,3.8,260,Good,yes,yes,yes,yes,yes,yes,yes,yes
+52,Hyderabad,Capital O,O 65104 Che Sigma Hotel,Near Narayana High School,2576,71,747,3.4,3194,Fair,yes,yes,yes,yes,yes,yes,yes,yes
+53,Hyderabad,OYO,76332 Hotel Sai Manikanta Inn,Indiaf,2234,56,968,3,276,Fair,yes,yes,yes,yes,yes,yes,yes,yes
+54,Hyderabad,OYO,Townhouse RCC Majestic 397 LB Nagar,Champapet,3441,47,1807,4.7,2475,Excellent,yes,yes,yes,yes,yes,yes,yes,yes
+55,Hyderabad,SPOT ON,ON 48349 Sri Sai Lohith Lodge,Near Regional Passport Office,1191,58,500,4.1,1172,Very,no,no,no,no,no,no,no,no
+56,Hyderabad,OYO,Flagship 76333 Shannu Residency,India,1745,54,794,3.7,1017,Good,yes,yes,yes,yes,yes,yes,yes,yes
+57,Hyderabad,OYO,Flagship 67479 Alpine Glow Zenith,Near Malani Colony,2409,57,1012,4,1530,Very,yes,yes,yes,yes,yes,yes,yes,yes
+58,Hyderabad,OYO,40869 White Ridge,Near Sanjeevini Hospital,2110,55,939,4.2,1534,Very,yes,yes,yes,yes,yes,yes,yes,yes
+59,Hyderabad,OYO,84232 Hotel Lavish Stay,LB Nagar Siris Road,2080,69,625,3.4,171,Fair,no,no,no,no,no,no,no,no
+60,Hyderabad,SPOT ON,ON 74966 Shree Amardeep Hotel,Near Kims hospital,1481,47,778,3.8,529,Good,no,no,no,no,no,no,no,no
+61,Hyderabad,OYO,HOME 79924 PRAMOD PRIME HOMES,nagole,2381,60,949,4.2,1212,Very,yes,yes,yes,yes,yes,yes,yes,yes
+62,Hyderabad,Capital O,O 15959 The City Park,Near The City Park,2253,54,1014,3.5,1572,Good,yes,yes,yes,yes,yes,yes,yes,yes
+63,Hyderabad,OYO,81907 Hotel Fortune Residency,India,1920,58,799,3.6,441,Good,yes,yes,yes,yes,yes,yes,yes,yes
+64,Hyderabad,OYO,15140 Hotel Priya Residency,Near Raniganj,1697,47,891,3.9,795,Good,no,no,no,no,no,no,no,no
+65,Hyderabad,OYO,HOME 88937 Kanaka Durga Home Stay,500001,1931,47,1014,3.846496815,8,Fair,yes,yes,yes,yes,yes,yes,yes,yes
+66,Hyderabad,OYO,795 Saranggi Boutique Hotel,Centrally Located,2392,65,829,3.9,375,Good,yes,yes,yes,yes,yes,yes,yes,yes
+67,Hyderabad,OYO,40166 Hotel My Choice,Near Karachi Bakery,1797,47,943,3.8,285,Good,yes,yes,yes,yes,yes,yes,yes,yes
+68,Hyderabad,Capital O,O 72734 Hotel Sri Sai Inn,Near Narayanaguda ,2426,58,1014,3.2,422,Fair,no,no,no,no,no,no,no,no
+69,Hyderabad,OYO,Flagship 75583 Thatipally Mansion,Kothapet.,1939,55,869,3.9,1279,Good,yes,yes,yes,yes,yes,yes,yes,yes
+70,Hyderabad,OYO,89107 Royal Stay,3-4-400/36/1 Upperpally Rajendranagar Ranga Reddy. Hyderabad. Telangana,2911,47,1528,3.846496815,8,Fair,yes,yes,yes,yes,yes,yes,yes,yes
+71,Hyderabad,Townhouse,OAK THE MARGI HOTEL,Hyderabad Hyderabad TelanganaIndia500045,3651,47,1917,4.3,308,Very,yes,yes,yes,yes,yes,yes,yes,yes
+72,Hyderabad,OYO,75379 Raja Ram Hotel,Near Bozai functional hall,1594,54,725,3.7,1041,Good,yes,yes,yes,yes,yes,yes,yes,yes
+73,Hyderabad,OYO,14726 Hotel Vaishnavi park,Near Monda Market,1808,50,891,3.5,1599,Good,yes,yes,yes,yes,yes,yes,yes,yes
+74,Hyderabad,OYO,70733 Hotel Regal,M.G Road,2315,47,1216,4,1548,Very,yes,yes,yes,yes,yes,yes,yes,yes
+75,Hyderabad,Collection O,O 81203 Shining Suites,near erragadda metro,1885,60,740,3.8,399,Good,yes,yes,yes,yes,yes,yes,yes,yes
+76,Hyderabad,OYO,13550 Hotel Pushpa Grand,Near Star Super Market,1797,54,818,2.9,130,Fair,yes,yes,yes,yes,yes,yes,yes,yes
+77,Hyderabad,Capital O,O 49135 Sri Simran Park Hotel,Near Railway station,2288,64,821,3.4,505,Fair,yes,yes,yes,yes,yes,yes,yes,yes
+78,Hyderabad,OYO,9936 Elite Inn,Near Chitta Reddy colony,2317,61,899,4,429,Very,yes,yes,yes,yes,yes,yes,yes,yes
+79,Hyderabad,OYO,Flagship 83824 Hotel R Square,India,1931,47,1014,3.3,265,Fair,yes,yes,yes,yes,yes,yes,yes,yes
+80,Hyderabad,OYO,Flagship 83824 Hotel R Square,India,1931,47,1014,3.3,265,Fair,yes,yes,yes,yes,yes,yes,yes,yes
+81,Hyderabad,OYO,Executive Stays 22453 Himayat Nagar Circle,Hyderabad.,2797,47,1468,3.7,2196,Good,no,no,no,no,no,no,no,no
+82,Hyderabad,OYO,37427 Hotel Shannu Grand,Near Apollo Pharmacy,1788,48,922,3.9,602,Good,yes,yes,yes,yes,yes,yes,yes,yes
+83,Hyderabad,OYO,71234 Hotel Shyam,M.G.Road,1855,56,799,3.5,727,Good,yes,yes,yes,yes,yes,yes,yes,yes
+84,Hyderabad,OYO,Flagship 76655 Goldhorn Hotels Mehdipatnam,Mehdipatnam,2741,47,1439,3.9,1478,Good,no,no,no,no,no,no,no,no
+85,Hyderabad,OYO,O 30955 Alpine Glow Pinnacle,Near Veg Market,2759,47,1449,4.3,1667,Very,no,no,no,no,no,no,no,no
+86,Hyderabad,Capital O,O 24450 Hotel Surabhi,Near Vishnu Theatre,3079,71,871,3.3,445,Fair,yes,yes,yes,yes,yes,yes,yes,yes
+87,Hyderabad,Collection O,O 77471 Kumar Residency Inn,Kothapet,2902,47,1524,4.1,918,Very,yes,yes,yes,yes,yes,yes,yes,yes
+88,Hyderabad,Townhouse,710 Hotel Regal,Nampally station road,2765,47,1452,3.7,259,Good,yes,yes,yes,yes,yes,yes,yes,yes
+89,Hyderabad,OYO,Flagship 469 Kachiguda Railway Station,Near Kumar Theatre,3582,47,1881,3.4,1537,Fair,no,no,no,no,no,no,no,no
+90,Hyderabad,Capital O,O 86296 Hotel Panchavati Grand,Secunderabad,3288,47,1726,4.1,136,Very,yes,yes,yes,yes,yes,yes,yes,yes
+91,Hyderabad,OYO,5527 Hanvi Inn,Near Reddys Lab,2080,56,899,2.7,73,Fair,yes,yes,yes,yes,yes,yes,yes,yes
+92,Hyderabad,Capital O,O 44354 Jubilee Banjara Suites,Near American Hospital,2796,49,1400,3.9,840,Good,yes,yes,yes,yes,yes,yes,yes,yes
+93,Hyderabad,Collection O,O 9386 Hotel Happy Stay,Near ICICI Bank,2426,61,925,3.3,370,Fair,no,no,no,no,no,no,no,no
+94,Hyderabad,OYO,Home 84000 Peaceful Stay Villa,India,1931,47,1014,3.5,236,Good,yes,yes,yes,yes,yes,yes,yes,yes
+95,Hyderabad,Capital O,O 89127 Hotel Samrat Palace,India,3037,47,1594,3.846496815,8,Fair,yes,yes,yes,yes,yes,yes,yes,yes
+96,Hyderabad,OYO,26650 R Square,Near L B nagar D- Mart,2156,58,899,3.3,313,Fair,yes,yes,yes,yes,yes,yes,yes,yes
+97,Hyderabad,OYO,4376 Imax Inn,Near Shravana Hospital,3445,47,1809,3.4,233,Fair,no,no,no,no,no,no,no,no
+98,Hyderabad,OYO,Townhouse 862 Che Sigma,Hyderabad,2727,47,1432,4.2,838,Very,yes,yes,yes,yes,yes,yes,yes,yes
+99,Hyderabad,Collection O,O 42514 Banjara Hills,Near Aasha hospital,4441,47,2332,4.3,993,Very,no,no,no,no,no,no,no,no
+100,Hyderabad,OYO,78865 Raga Stays,Beside Reliance Trends ,2327,47,1222,3.6,809,Good,yes,yes,yes,yes,yes,yes,yes,yes
+101,Hyderabad,Collection O,O 80304 Hotel PNR Banjara Hills,Road No 10 Banjara Hills Guru Bramaha,2671,47,1402,3.8,574,Good,yes,yes,yes,yes,yes,yes,yes,yes
+102,Hyderabad,Capital O,O 78864 Hotel Ragas,Near Sagar Ring Road,1932,47,1014,3.2,582,Fair,yes,yes,yes,yes,yes,yes,yes,yes
+103,Hyderabad,Collection O,O 7601 Hotel Park Heights Banjara Hills,Telangana ,2404,47,1262,3.8,21,Good,yes,yes,yes,yes,yes,yes,yes,yes
+104,Hyderabad,Collection O,O 3169 Hotel Lotus Grand,Secunderabad,2749,47,1444,3.2,511,Fair,yes,yes,yes,yes,yes,yes,yes,yes
+105,Hyderabad,OYO,Flagship 11376 Hotel Golden Park( VVG Grand),Near Satyam Theatre,2752,47,1445,3.3,360,Fair,no,no,no,no,no,no,no,no
+106,Hyderabad,OYO,1410 Country Club Begumpet,Near Railway Station,4012,47,2107,3.4,371,Fair,yes,yes,yes,yes,yes,yes,yes,yes
+107,Hyderabad,OYO,Townhouse White Ridge 112 Shivam Road,New Nallakunta,2051.950704,61.22648084,775,4.3,2089,Very,no,no,no,no,no,no,no,no
+108,Hyderabad,OYO,Flagship 83917 Lakeview Palace,Hyderabad,2051.950704,61.22648084,775,4.7,354,Excellent,yes,yes,yes,yes,yes,yes,yes,yes
+109,Hyderabad,OYO,HYD1516 Hotel Aroma Classic,Ghosha Mahal,2051.950704,61.22648084,775,4.2,847,Very,yes,yes,yes,yes,yes,yes,yes,yes
+110,Hyderabad,OYO,6651 Hotel Srujana Stay Inn,Opposite Public Garden Nampally,2051.950704,61.22648084,775,4.1,1079,Very,yes,yes,yes,yes,yes,yes,yes,yes
+111,Hyderabad,Collection O,O 63872 Enchanting Spaces,Near Railway Officer Colony,2051.950704,61.22648084,775,4.2,1331,Very,yes,yes,yes,yes,yes,yes,yes,yes
+112,Hyderabad,OYO,71210 Jubilee Homes,Centrally Located,2051.950704,61.22648084,775,4.5,252,Excellent,no,no,no,no,no,no,no,no
+113,Hyderabad,OYO,78286 Collection O White Ridge,LB Nagar,2051.950704,61.22648084,775,4.5,3014,Excellent,no,no,no,no,no,no,no,no
+114,Hyderabad,OYO,Flagship 18926 Tourist Krishna Inn,Near Barkatpura Rd,2051.950704,61.22648084,775,3.6,376,Good,yes,yes,yes,yes,yes,yes,yes,yes
+115,Hyderabad,OYO,10139 Hotel Palak Residency,Metro Pillar no: A947,2051.950704,61.22648084,775,4.2,1559,Very,no,no,no,no,no,no,no,no
+116,Hyderabad,SPOT ON,ON 47118 Pummy Lodge,Centrally Located,2051.950704,61.22648084,775,2.5,151,Fair,no,no,no,no,no,no,no,no
+117,Hyderabad,OYO,87887 Alpine Glow Crest,Shop No. 10-4-A/130/2,2051.950704,61.22648084,775,4.9,127,Fabulous,yes,yes,yes,yes,yes,yes,yes,yes
+118,Hyderabad,OYO,26883 Vasundhara Guest House,Near Bombay Hotel,2051.950704,61.22648084,775,3.7,676,Good,yes,yes,yes,yes,yes,yes,yes,yes
+119,Hyderabad,OYO,30744 The Gate,Below Flyover,2051.950704,61.22648084,775,4.6,1592,Excellent,yes,yes,yes,yes,yes,yes,yes,yes
+120,Hyderabad,OYO,O 15141 Townvilla Guest House,Near Indo US Super Speciality Hospital,2051.950704,61.22648084,775,4.5,2307,Excellent,yes,yes,yes,yes,yes,yes,yes,yes
+121,Hyderabad,OYO,Flagship 77115 Hotel Vaishnavi Palace,#2-4-133 Beside KFC,2051.950704,61.22648084,775,4.2,2120,Very,no,no,no,no,no,no,no,no
+122,Hyderabad,OYO,Townhouse RCC Elite 265 Begumpet,Opp to Js babu silks.,2051.950704,61.22648084,775,4.6,2887,Excellent,no,no,no,no,no,no,no,no
+123,Hyderabad,OYO,Townhouse 600 Gangothri,Near RP Road BUS STOP·       5.7 km,2051.950704,61.22648084,775,4.4,3130,Very,yes,yes,yes,yes,yes,yes,yes,yes
+124,Hyderabad,Capital O,O 23543 Hotel Vaishnavi,Near Csi Wesley Church,2051.950704,61.22648084,775,4.3,2005,Very,yes,yes,yes,yes,yes,yes,yes,yes
+125,Hyderabad,OYO,2840 Kanha Grand,Near Nilofer Hospital,2051.950704,61.22648084,775,3.9,582,Good,no,no,no,no,no,no,no,no
+126,Hyderabad,OYO,68404 Sa Thirumala Residency,Near VRK Silks,2051.950704,61.22648084,775,3.9,453,Good,yes,yes,yes,yes,yes,yes,yes,yes
+127,Hyderabad,OYO,61506 Sai Residency,Near Sr nagar metro station,2051.950704,61.22648084,775,3.4,568,Fair,yes,yes,yes,yes,yes,yes,yes,yes
+128,Hyderabad,OYO,2006 Alpine Glow Sunrise,Near RBI Quarters,2051.950704,61.22648084,775,4.4,879,Very,yes,yes,yes,yes,yes,yes,yes,yes
+129,Hyderabad,OYO,Townhouse 164 ESI Hospital,Sanath Nagar,2051.950704,61.22648084,775,4.6,4937,Excellent,no,no,no,no,no,no,no,no
+130,Hyderabad,OYO,Flagship 87165 Sri Residency,Shivbagh colony Ameerpet,2051.950704,61.22648084,775,4.5,177,Excellent,yes,yes,yes,yes,yes,yes,yes,yes
+131,Hyderabad,OYO,Townhouse 113 The Shubham Dilsukhnaga,NearCentralGurudwaraSaheb Gowliguda,2051.950704,61.22648084,775,3.8,1841,Good,no,no,no,no,no,no,no,no
+132,Hyderabad,Townhouse,Townhouse 151 De Alphabet,Near metro cash and carry,2051.950704,61.22648084,775,3.7,1889,Good,yes,yes,yes,yes,yes,yes,yes,yes
+133,Hyderabad,OYO,Townhouse 359 Begumpet,Vinn Hospital,2051.950704,61.22648084,775,4.4,3012,Very,yes,yes,yes,yes,yes,yes,yes,yes
+134,Hyderabad,OYO,63371 R Square Stay,Near LB Nagar Metro Station,2051.950704,61.22648084,775,3.3,491,Fair,yes,yes,yes,yes,yes,yes,yes,yes
+135,Hyderabad,OYO,4520 Hotel Central Park,Hyderguda,2051.950704,61.22648084,775,4,2077,Very,no,no,no,no,no,no,no,no
+136,Hyderabad,OYO,71930 V Guest Inn,7-1-211/25 Opp Indian Bank DK Road Ameerpet,2051.950704,61.22648084,775,4.4,225,Very,yes,yes,yes,yes,yes,yes,yes,yes
+137,Hyderabad,OYO,11316 Athithi Inn,Near Maithrivanam Complex,2051.950704,61.22648084,775,3.5,2060,Good,no,no,no,no,no,no,no,no
+138,Hyderabad,OYO,Townhouse 81794 Banjara Hills,Masab Tank,2051.950704,61.22648084,775,3.9,622,Good,yes,yes,yes,yes,yes,yes,yes,yes
+139,Hyderabad,OYO,65225 Hotel RK View,Near Green Valley,2051.950704,61.22648084,775,3,40,Fair,no,no,no,no,no,no,no,no
+140,Hyderabad,OYO,Flagship 70822 Pnd Complex,Telangana  India,2051.950704,61.22648084,775,4,830,Very,yes,yes,yes,yes,yes,yes,yes,yes
+141,Hyderabad,OYO,Townhouse 196 De Alphabet,Near Sai Baba Temple,2051.950704,61.22648084,775,4,3817,Very,no,no,no,no,no,no,no,no
+142,Hyderabad,OYO,81097 SilverKey Halcyon Magnus,Sanath Nagar,2051.950704,61.22648084,775,3.5,5131,Good,yes,yes,yes,yes,yes,yes,yes,yes
+143,Hyderabad,OYO,O 11079 Hotel Prestige,Centrally Located,2051.950704,61.22648084,775,4.1,2649,Very,no,no,no,no,no,no,no,no
+144,Hyderabad,Capital O,O 82573 N Grand De Alphabet Hotel,Maredpally mandal,2051.950704,61.22648084,775,4.1,527,Very,yes,yes,yes,yes,yes,yes,yes,yes
+145,Hyderabad,OYO,12237 Luxury Villas,Begumpet,2051.950704,61.22648084,775,3,196,Fair,yes,yes,yes,yes,yes,yes,yes,yes
+0,Delhi,OYO,28715 Acclaim,"Near Abdul Gaffar Khan Marg, Vasant Kunj, ",1963,74,500,4.5,6,Excellent,yes,yes,yes,yes,yes,yes,yes,yes
+1,Delhi,Capital O,O 88089 Hotel Elite,"India, ",2547,78,549,4.5,4,Excellent,yes,yes,yes,yes,yes,yes,yes,yes
+2,Delhi,OYO,87715 Comfort In,"India, ",2025,73,541,4.6,6,Excellent,yes,yes,yes,yes,yes,yes,yes,yes
+3,Delhi,OYO,87875 Krazy Home,"India, ",1925,74,500,4.5,5,Excellent,yes,yes,yes,yes,yes,yes,yes,yes
+4,Delhi,OYO,22355 Hotel Istay,"Near New  Railway Station, ",2371,70,699,4.6,6,Excellent,yes,yes,yes,yes,yes,yes,yes,yes
+5,Delhi,OYO,70216 Bluemoon Inn,"Sarita Vihar, ",2080,62,778,4.8,0,Excellent,yes,yes,yes,yes,yes,yes,yes,yes
+6,Delhi,OYO,70893 Kl Khari Inn,"Near Ashok Park Main, Rampura Marg, ",2564,68,799,4.6,6,Excellent,no,no,no,no,no,no,no,no
+7,Delhi,OYO,86940 Sunrise Villa,", ",1890,73,500,4.5,8,Excellent,yes,yes,yes,yes,yes,yes,yes,yes
+8,Delhi,OYO,13277 Hotel Neelam Palace,"Near New  Railway Station, ",2679,74,695,4.6,4,Excellent,yes,yes,yes,yes,yes,yes,yes,yes
+9,Delhi,OYO,87920 Hotel Happy Stay Inn,", ",2010,74,509,4.4,8,Very,yes,yes,yes,yes,yes,yes,yes,yes
+10,Delhi,OYO,84391 Townhouse Hotel Grand,"Badarpur Border New , ",2047,57,868,4.8,3,Excellent,yes,yes,yes,yes,yes,yes,yes,yes
+11,Delhi,OYO,77554 Red Carmine Deluxe,"Badarpur Border, ",2336,65,811,4.6,0,Excellent,no,no,no,no,no,no,no,no
+12,Delhi,Capital O,O 87150 The imperial orbit,"India - 110034, ",2851,68,899,4.8,8,Excellent,no,no,no,no,no,no,no,no
+13,Delhi,Collection O,O 83904 Hotel Small Town,"60/61 Main Rampura School road, near ashok park main metro station-110086",2339,65,799,4.6,9,Excellent,no,no,no,no,no,no,no,no
+14,Delhi,OYO,75351 Hotel Moon Palace Dx,"Near R.K. ASHRAM MARG METRO STATION, Pahar Ganj, ",1931,71,549,4.7,5,Excellent,no,no,no,no,no,no,no,no
+15,Delhi,SPOT ON,ON 72997 D C Palace,"Near KD Campus, Gopalpur, ",2240,83,364,2.9,0,Fair,yes,yes,yes,yes,yes,yes,yes,yes
+16,Delhi,OYO,87588 Dolphin,"New  - 110 037, ",1920,71,541,4.5,3,Excellent,yes,yes,yes,yes,yes,yes,yes,yes
+17,Delhi,SPOT ON,ON 29024 Jageer Palace,"Near Bawana Chamber Of Industries, Puth Khurd, ",1145,62,433,4.3,6,Very,no,no,no,no,no,no,no,no
+18,Delhi,OYO,86628 Ojas Palace,"new delhi , ",1906,71,541,4.1,1,Very,yes,yes,yes,yes,yes,yes,yes,yes
+19,Delhi,OYO,44260 Saffron Inn,"PHARAGANJ, ",2147,54,974,4.6,5,Excellent,yes,yes,yes,yes,yes,yes,yes,yes
+20,Delhi,OYO,84351 Welcome Palace,"pillar no. 51 Laxmi Nagar, ",2116,62,799,4.5,2,Excellent,no,no,no,no,no,no,no,no
+21,Delhi,SPOT ON,ON 83214 Raj Guest House,"India, ",2080,78,454,3.846496815,8,Fair,yes,yes,yes,yes,yes,yes,yes,yes
+22,Delhi,Townhouse,483 Hotel Rivasa Regency,"B12 Main Chattarpur Road, ",2315,61,899,4.7,6,Excellent,no,no,no,no,no,no,no,no
+23,Delhi,Collection O,O 76614 J K Hotel,"Pitam Pura, ",2886,67,949,3,2,Fair,yes,yes,yes,yes,yes,yes,yes,yes
+24,Delhi,OYO,86920 Bella House,", ",2093,76,500,4,1,Very,yes,yes,yes,yes,yes,yes,yes,yes
+25,Delhi,Collection O,O 81401 Sai Residency,"Multani Dhanda, ",3171,81,576,3.7,2,Good,yes,yes,yes,yes,yes,yes,yes,yes
+26,Delhi,OYO,61891 Hotel Kabila,"Karol Bagh, ",1216,55,1216,4.5,1,Excellent,yes,yes,yes,yes,yes,yes,yes,yes
+27,Delhi,Collection O,O 83921 The Maharaja Grand,"Rohini Tehsil, ",2573,71,722,4.4,1,Very,no,no,no,no,no,no,no,no
+28,Delhi,SPOT ON,ON 76979 Chandu Inn,"New  - 110016, ",1370,72,376,3.1,2,Fair,no,no,no,no,no,no,no,no
+29,Delhi,OYO,87205 Hotel Sapan Plaza,"New  , ",1920,67,625,4.3,2,Very,yes,yes,yes,yes,yes,yes,yes,yes
+30,Delhi,Collection O,O 83547 Iconic Residency,"RAJENDRA NAGAR, ",1765,47,925,4.3,8,Very,yes,yes,yes,yes,yes,yes,yes,yes
+31,Delhi,Capital O,O 86072 Holiday Home,"India, ",2542,74,657,2.7,0,Fair,yes,yes,yes,yes,yes,yes,yes,yes
+32,Delhi,Collection O,O 50329 Singh Guest House,"New  71, ",2339,76,559,4.5,1,Excellent,yes,yes,yes,yes,yes,yes,yes,yes
+33,Delhi,OYO,62660 Hotel Park View,"Near Adarsh nagar, Matmy Memar, ",2110,70,625,4.4,1,Very,no,no,no,no,no,no,no,no
+34,Delhi,OYO,37773 Hotel J Joy,"MAIN FAIZ ROAD (Above SBI BANK), KAROL BAGH",1734,53,799,4.5,8,Excellent,yes,yes,yes,yes,yes,yes,yes,yes
+35,Delhi,OYO,7217 Hotel Knk International,"Near Karol Bagh, WEA, ",1279,47,1279,4.5,9,Excellent,yes,yes,yes,yes,yes,yes,yes,yes
+36,Delhi,OYO,12739 Mahesh Inn,Near New  Railway Station,2104,73,550,3.3,4,Fair,no,no,no,no,no,no,no,no
+37,Delhi,OYO,7684 Hotel Repose Villa,"Near new delhi railway station, Chuna Mandi, ",2240,64,799,4.6,8,Excellent,yes,yes,yes,yes,yes,yes,yes,yes
+38,Delhi,Collection O,O 83597 Hotel Love Stay,"South West , ",1932,65,664,4.3,7,Very,yes,yes,yes,yes,yes,yes,yes,yes
+39,Delhi,OYO,84076 Dwarka Metro View,"near Dwarka Metro Station, ",2080,69,625,3.4,8,Fair,yes,yes,yes,yes,yes,yes,yes,yes
+40,Delhi,OYO,85985 Sunrise Villa,"India, ",2080,73,549,4.1,3,Very,no,no,no,no,no,no,no,no
+41,Delhi,OYO,Flagship 77310 Sec 7 Rohini,"near bank of Baroda, ",1958,65,684,4.5,6,Excellent,yes,yes,yes,yes,yes,yes,yes,yes
+42,Delhi,OYO,85984 Hotel Happy Spring,"South East , ",1929,67,625,4.4,2,Very,yes,yes,yes,yes,yes,yes,yes,yes
+43,Delhi,OYO,79123 Smart Palace,"Sarita Vihar New  110076, ",2061,73,541,3.8,7,Good,no,no,no,no,no,no,no,no
+44,Delhi,OYO,87591 Legend Stay,"India, ",1850,55,830,4.7,9,Excellent,yes,yes,yes,yes,yes,yes,yes,yes
+45,Delhi,OYO,67901 Hotel Yugh Dx,"Near New  Railway Station, ",2240,75,541,3.1,8,Fair,yes,yes,yes,yes,yes,yes,yes,yes
+46,Delhi,OYO,Flagship 87309 Hotel Blue Moon,"India, ",1851,51,901,4.9,7,Fabulous,no,no,no,no,no,no,no,no
+47,Delhi,SPOT ON,ON 61091 Hotel Silver Palace Dx,"Near RK ASHRAM METRO STATION, Pahar Ganj, ",1459,47,766,4.6,6,Excellent,no,no,no,no,no,no,no,no
+48,Delhi,OYO,Silver Key 77709 Stay Heaven,"Chhatarpur, ",1318,47,1318,3.5,8,Good,yes,yes,yes,yes,yes,yes,yes,yes
+49,Delhi,OYO,47447 Flagship Designer Stay GD Goenka School,Plot no 42 Pocket no 5 Sector 22 Near GD Goenka Public School,2192,70,641,4,8,Very,yes,yes,yes,yes,yes,yes,yes,yes
+50,Delhi,OYO,5985 Hotel Priya Palace,"Near New  Railway Station, ",2240,72,625,2.7,8,Fair,yes,yes,yes,yes,yes,yes,yes,yes
+51,Delhi,OYO,89006 Bhera Residency,", ",1804,54,821,3.846496815,8,Fair,yes,yes,yes,yes,yes,yes,yes,yes
+52,Delhi,OYO,82676 Aashiana Residency,"Vasant Kunj Enclave, ",2080,75,500,3.7,6,Good,no,no,no,no,no,no,no,no
+53,Delhi,OYO,HOME 87744 Khattar,"India, ",1703,71,489,3.846496815,8,Fair,yes,yes,yes,yes,yes,yes,yes,yes
+54,Delhi,OYO,46761 Hotel Royal King Deluxe,"Near Hariram Sweets, Burari village, Takia Chowk, ",2080,69,625,3.3,0,Fair,no,no,no,no,no,no,no,no
+55,Delhi,Capital O,O 37878 Star Seventeen,"block A pocket -2 sector 17, ",1902,51,1902,4.1,9,Very,yes,yes,yes,yes,yes,yes,yes,yes
+56,Delhi,Capital O,O 85803 Prince Residency,", ",2080,64,747,3.9,1,Good,yes,yes,yes,yes,yes,yes,yes,yes
+57,Delhi,Capital O,O 85598 Hotel Friend,"India, ",2278,73,598,3.9,5,Good,no,no,no,no,no,no,no,no
+58,Delhi,OYO,Mayur Palace,"Near Shraddhanand College, Alipur, ",1981,64,699,3.5,4,Good,yes,yes,yes,yes,yes,yes,yes,yes
+59,Delhi,OYO,84491 Blue Diamond,"Opp. Metro Pillar No. 102, Near Sai Baba Mandir, Adarsh Nagar, ",2080,75,500,3.8,2,Good,no,no,no,no,no,no,no,no
+60,Delhi,OYO,73324 Hotel Unwind,"Near Aman Vihar, Police Station, Pocket 5, ",2166,70,645,4.1,8,Very,no,no,no,no,no,no,no,no
+61,Delhi,OYO,80790 Hotel Jagatpuri Inn,"Krishna Nagar, ",1300,48,1300,4.9,7,Fabulous,no,no,no,no,no,no,no,no
+62,Delhi,OYO,40670 Hare Rama Guest House,"Paharganj, ",1947,67,625,4.1,7,Very,no,no,no,no,no,no,no,no
+63,Delhi,Townhouse,963 Hotel The Victorian Palace,"Opposite Jain Mandir, ",1216,48,1216,3.846496815,8,Fair,no,no,no,no,no,no,no,no
+64,Delhi,OYO,80899 Osho Inn,"Qutab Vihar Goyla Dairy, Near Ram Laxmi Furniture",2733,69,821,4.5,2,Excellent,no,no,no,no,no,no,no,no
+65,Delhi,OYO,70788 Days Inn Guest House,"Plot No. 4, Main Road Haiderpur, Shalimar Road, Opp. Gali No. 2, -110088",2080,68,652,3.2,9,Fair,yes,yes,yes,yes,yes,yes,yes,yes
+66,Delhi,Collection O,O 83549 Clark village,"North , ",2426,72,664,4.2,0,Very,yes,yes,yes,yes,yes,yes,yes,yes
+67,Delhi,OYO,Flagship 87033 Jps Advance,"India, ",1908,70,565,2.7,9,Fair,yes,yes,yes,yes,yes,yes,yes,yes
+68,Delhi,OYO,80801 CUBE STAY,"New  110061, ",1014,47,1014,4.6,7,Excellent,yes,yes,yes,yes,yes,yes,yes,yes
+69,Delhi,Capital O,O 84215 The Chaitanya's,", ",2362,68,747,3.7,4,Good,yes,yes,yes,yes,yes,yes,yes,yes
+70,Delhi,OYO,84761 Midtown,"near Babbar Jewellers, ",2111,67,695,4.4,3,Very,yes,yes,yes,yes,yes,yes,yes,yes
+71,Delhi,OYO,70849 Hotel Sarvasa Residency,"Near Axis Bank, Rohini, ",2235,57,949,4.3,9,Very,yes,yes,yes,yes,yes,yes,yes,yes
+72,Delhi,OYO,Townhouse 654 MANNAT ROHINI,", ",1216,47,1216,4.5,9,Excellent,no,no,no,no,no,no,no,no
+73,Delhi,OYO,70020 Hotel Geetanjali Inn,"Near RK Ashram Metro Station, Pahar Ganj, ",2240,75,541,2.6,2,Fair,yes,yes,yes,yes,yes,yes,yes,yes
+74,Delhi,OYO,45288 Hotel 2 Yaars,"Ghitorni, ",1014,54,1014,4.5,5,Excellent,yes,yes,yes,yes,yes,yes,yes,yes
+75,Delhi,OYO,Flagship 39600 Sathguru Residency,", ",1958,64,699,4.7,0,Excellent,yes,yes,yes,yes,yes,yes,yes,yes
+76,Delhi,SPOT ON,ON 69054 Anchal Guest House,"Near New  Railway Station, ",1587,77,365,3.3,2,Fair,yes,yes,yes,yes,yes,yes,yes,yes
+77,Delhi,OYO,84922 Hotel Good Will Inn,", ",2080,66,695,3.9,7,Good,yes,yes,yes,yes,yes,yes,yes,yes
+78,Delhi,OYO,O 19133 Oak Tree,"Near Bhagat Chandra Hospital, Mahavir Enclave I, ",1546,50,1546,4.7,0,Excellent,yes,yes,yes,yes,yes,yes,yes,yes
+79,Delhi,Capital O,O 85009 The Arrow,"Near Nawada metro station, Opposite pillar 744, ",1014,62,1014,4.5,4,Excellent,yes,yes,yes,yes,yes,yes,yes,yes
+80,Delhi,OYO,64076 Discovery Inn,"Near Metro Station, Eastend Apartments, New Ashok Nagar, ",2258,77,514,3.3,9,Fair,yes,yes,yes,yes,yes,yes,yes,yes
+81,Delhi,OYO,471 Sehej Continental,"DB GUPTA ROAD KAROLBAGH, ",1478,47,1478,4.8,7,Excellent,no,no,no,no,no,no,no,no
+82,Delhi,OYO,Flagship 78740 Tushika Residency,"India, ",1538,63,565,3.1,8,Fair,no,no,no,no,no,no,no,no
+83,Delhi,Collection O,O 82480 Galaxy Motel,"masudpur vasant kunj new delhi , ",2339,71,664,4.3,1,Very,yes,yes,yes,yes,yes,yes,yes,yes
+84,Delhi,Collection O,O 69662 Hotel Yuvraj,"Gali no. 2, Qutub Vihar, near Goyla Dairy, Dwarka",2339,68,740,3.5,2,Good,yes,yes,yes,yes,yes,yes,yes,yes
+85,Delhi,OYO,81701 Dream sky,"Near New Ashok Nagar metro station , ",1485,66,500,2.8,2,Fair,yes,yes,yes,yes,yes,yes,yes,yes
+86,Delhi,OYO,45956 Hotel Woodland Dx,"Near New  Railway Station, ",1724,58,713,4.2,0,Very,no,no,no,no,no,no,no,no
+87,Delhi,Townhouse,712 Sector 24 Rohini,"Near Rithala Metro and JIMS , Sector 24, Rohini",2709,71,775,3.2,9,Fair,yes,yes,yes,yes,yes,yes,yes,yes
+88,Delhi,OYO,86477 Z-Heart,"New , ",2007,56,868,4.7,4,Excellent,yes,yes,yes,yes,yes,yes,yes,yes
+89,Delhi,OYO,84801 Narela Inn,"North , ",2080,75,500,1.6,3,Fair,no,no,no,no,no,no,no,no
+90,Delhi,OYO,88326 Hotel Cloud 9,", ",1967,59,791,4.6,7,Excellent,no,no,no,no,no,no,no,no
+91,Delhi,OYO,6886 Hotel Gold Palace,"Near Faiz Road, Karol Bagh, ",2287,66,759,2.4,9,Fair,yes,yes,yes,yes,yes,yes,yes,yes
+92,Delhi,OYO,6801 Hotel Shri Sai International,"Paharganj, ",1247,60,1247,4.7,8,Excellent,yes,yes,yes,yes,yes,yes,yes,yes
+93,Delhi,OYO,80919 Hotel Vinayaka Inn,"8881Multani Dhanda, ",2240,75,541,3.3,5,Fair,no,no,no,no,no,no,no,no
+94,Delhi,OYO,5401 Hotel Mid Town,Near Karol bagh metro station,1261,48,1261,3.8,9,Good,yes,yes,yes,yes,yes,yes,yes,yes
+95,Delhi,OYO,86607 Hotel Mayur,"India - 110033, ",1762,54,799,3.9,8,Good,yes,yes,yes,yes,yes,yes,yes,yes
+96,Delhi,SPOT ON,ON 40693 Chahal Guest House,"Near Beside Sonia Hospital, Rajdhani Park, ",1115,50,549,3.4,4,Fair,no,no,no,no,no,no,no,no
+97,Delhi,OYO,79029 Jannat Residency,"Nangloi, ",2076,65,713,3.7,5,Good,yes,yes,yes,yes,yes,yes,yes,yes
+98,Delhi,OYO,337 Hotel Anand,Near Karol Bagh Metro Station,1014,59,1014,4.5,7,Excellent,yes,yes,yes,yes,yes,yes,yes,yes
+99,Delhi,Collection O,O 84003 Hotel Chopra International,"near New  Railway Station and RK Ashram Metro Station, ",1761,48,899,4.4,3,Very,yes,yes,yes,yes,yes,yes,yes,yes
+100,Delhi,OYO,88548 Hotel Red Heart,"khasra no 48 main budh bazar road nathupura  near 30 Foota , ",1600,60,636,4.3,2,Very,yes,yes,yes,yes,yes,yes,yes,yes
+101,Delhi,OYO,Flagship 75860 Green High,"NEAR FRUIT POWER, Laxmi Nagar Metro Station, ",1372,47,1372,4.5,1,Excellent,yes,yes,yes,yes,yes,yes,yes,yes
+102,Delhi,Townhouse,775 Hotel Casanova,"Rajouri Garden Tehsil, ",1672,51,807,2.3,4,Fair,yes,yes,yes,yes,yes,yes,yes,yes
+103,Delhi,OYO,77732 Khanpur STAY,"India, ",1790,68,565,3.4,4,Fair,no,no,no,no,no,no,no,no
+104,Delhi,OYO,76751 Classic Inn,"Near Divine Hospital, Gali no 12 wazirabad Jagatpur Road",2080,75,514,3.2,1,Fair,no,no,no,no,no,no,no,no
+105,Delhi,Townhouse,478 The Grey Orchid,Palam colony ram chowk main market opposite pillar number 57,1612,47,1612,4.6,7,Excellent,no,no,no,no,no,no,no,no
+106,Delhi,Townhouse,856 BROSTAY Vasant Kunj,"vasant kunj delhi, ",1216,47,1216,4.7,1,Excellent,no,no,no,no,no,no,no,no
+107,Delhi,OYO,46441 1 Plus One Hotel Residency,"Matiala Extension, Sukh Ram Park, Matiala, ",2144,74,541,3.2,4,Fair,no,no,no,no,no,no,no,no
+108,Delhi,Collection O,O 42944 Garg Trade Centre Sector 11,"Near Garg Trade Centre Anusha Tower , Sector 16, ",3046,73,808,4.1,7,Very,yes,yes,yes,yes,yes,yes,yes,yes
+109,Delhi,OYO,DEL2869 Unique International,"India, ",1000,64,1000,4.6,3,Excellent,yes,yes,yes,yes,yes,yes,yes,yes
+110,Delhi,OYO,85103 Relax Residence Hotel,", ",2211,71,625,3.4,6,Fair,yes,yes,yes,yes,yes,yes,yes,yes
+111,Delhi,Capital O,O 84658 Hotel Moonlight Inn,"Rohini, ",2527,67,811,3.9,2,Good,no,no,no,no,no,no,no,no
+112,Delhi,OYO,80879 Townhouse 421 Kirti Nagar Oth,"Kirti Nagar, ",1894,47,994,4.3,3,Very,no,no,no,no,no,no,no,no
+113,Delhi,OYO,Comfort Home,"Lajpat Nagar II, ",1818,50,899,4.7,2,Excellent,yes,yes,yes,yes,yes,yes,yes,yes
+114,Delhi,Capital O,O 88320 Hotel Grand Stays,", ",2206,55,985,3.846496815,8,Fair,no,no,no,no,no,no,no,no
+115,Delhi,Townhouse,899 Hotel Singh,"India, ",2101,65,715,3.1,8,Fair,no,no,no,no,no,no,no,no
+116,Delhi,OYO,463 Hotel Metro View Inn,"Near hotel jaypee, patel nagar, ",1340,48,1340,4.2,7,Very,yes,yes,yes,yes,yes,yes,yes,yes
+117,Delhi,OYO,81379 Collection O Hotel Green Plaza,"near Lal batti, ",1014,70,1014,4.2,3,Very,yes,yes,yes,yes,yes,yes,yes,yes
+118,Delhi,OYO,Townhouse 811 The Leaf Residency,"India, ",2939,75,715,4,5,Very,no,no,no,no,no,no,no,no
+119,Delhi,OYO,88630 Shiv Rattan Kutir,"India, ",1197,54,541,3.846496815,8,Fair,yes,yes,yes,yes,yes,yes,yes,yes
+120,Delhi,OYO,Townhouse 409 Brostay Meera Bagh,"A-342, Meera Bagh, Paschim Vihar, ",2416,58,994,4.4,9,Very,yes,yes,yes,yes,yes,yes,yes,yes
+121,Delhi,OYO,Townhouse 604 The Royal Galaxy,"Plot 2,Sec-12B,Opposite Metro Station Sec-12,Dwarka,New ",1482,50,1482,3.5,8,Good,yes,yes,yes,yes,yes,yes,yes,yes
+122,Delhi,OYO,86200 Sahil Residency,"Road Number 77, ",1920,71,541,3.8,1,Good,no,no,no,no,no,no,no,no
+123,Delhi,OYO,69968 Trish Inn,"Opposite max hospital, ",1014,53,1014,3.6,9,Good,no,no,no,no,no,no,no,no
+124,Delhi,Townhouse,868 Grand Pacific Ocean,"WZ-3 Opp Pillor no 322 Moti Nagar  110051, ",2032,52,961,4.5,4,Excellent,yes,yes,yes,yes,yes,yes,yes,yes
+125,Delhi,OYO,O 88560 The Vegas,"g.39 ramphal chwok Dwarka sec.7, ",1541,58,647,3.5,4,Good,yes,yes,yes,yes,yes,yes,yes,yes
+126,Delhi,SPOT ON,ON 39899 Shyam Palace,"Near R K Ashram Metro Station, Pahar Ganj, ",1352,63,499,4.1,0,Very,no,no,no,no,no,no,no,no
+127,Delhi,OYO,81119 Hotel Prince," , ",1391,61,541,3.6,1,Good,no,no,no,no,no,no,no,no
+128,Delhi,OYO,65163 Mahalaxmi Deluxe,"2682, Street No.8, Chuna Mandi, Paharganj, New -110055",1872,69,562,3.9,6,Good,yes,yes,yes,yes,yes,yes,yes,yes
+129,Delhi,Capital O,O 86909 Hotel Cozy Inn,"Ram Murthi Pasi Marg, Sector 11, Rohini, Alipur Tehsil, ",2536,68,811,4.1,2,Very,yes,yes,yes,yes,yes,yes,yes,yes
+130,Delhi,OYO,87627 Delight Stay,"India, ",1997,70,592,4.1,6,Very,yes,yes,yes,yes,yes,yes,yes,yes
+131,Delhi,OYO,78525 Indian Residency,"Above Canara Bank Lajpat Nagar Part-2, ",2021,67,657,3.9,7,Good,yes,yes,yes,yes,yes,yes,yes,yes
+132,Delhi,Capital O,O 70301 Rohil Residency,"Near rithala metro station, Pehladpur Bangar, ",3190,75,792,3.3,7,Fair,yes,yes,yes,yes,yes,yes,yes,yes
+133,Delhi,OYO,29435 Park Inn,"Near Bus Stop, Chittaranjan Park, ",1318,64,1318,3.7,3,Good,yes,yes,yes,yes,yes,yes,yes,yes
+134,Delhi,OYO,Townhouse 286 Vaishali Dakshini Pitampura,"Near Pitampura Metro Station, ",1807,49,1807,3.8,7,Good,no,no,no,no,no,no,no,no
+135,Delhi,Collection O,O 87188 Hotel Grand International,"India, ",1929,64,691,2.9,7,Fair,no,no,no,no,no,no,no,no
+136,Delhi,OYO,24677 Tashkent,"Paharganj, ",2253,65,783,3.8,2,Good,yes,yes,yes,yes,yes,yes,yes,yes
+137,Delhi,OYO,69987 The Cozy Inn,"Near Haiderpur Metro Station, Auchandi Road, ",2028,73,546,3.7,8,Good,yes,yes,yes,yes,yes,yes,yes,yes
+138,Delhi,OYO,Townhouse 475 Nangal Raya Pankha Road,"Near EASYDAY, Gandhi Market, ",1786,47,1786,4.1,8,Very,yes,yes,yes,yes,yes,yes,yes,yes
+139,Delhi,OYO,35359 Hotel Victoria Dx,"Near New  Railway Station, ",2388,70,713,3.2,9,Fair,no,no,no,no,no,no,no,no
+140,Delhi,OYO,84596 Hotel North Campus,", ",2246,57,949,2.5,5,Fair,yes,yes,yes,yes,yes,yes,yes,yes
+141,Delhi,OYO,Flagship 80575 Kashish Residency,"Ashok Vihar-3, ",3504,80,699,2.9,1,Fair,no,no,no,no,no,no,no,no
+142,Delhi,OYO,9726 Hotel Aura Palace Deluxe,"Pahar Ganj, ",2174,58,910,4.4,3,Very,no,no,no,no,no,no,no,no
+143,Delhi,OYO,75287 Pubg Residency,"Near Reliance Fresh, Mayur Vihar Phase 1, ",2240,68,696,3.8,9,Good,no,no,no,no,no,no,no,no
+144,Delhi,OYO,78699 Hotel Klick International,", ",1923,52,920,3.3,4,Fair,yes,yes,yes,yes,yes,yes,yes,yes
+145,Delhi,OYO,6467 Kochar Plaza,"Near Liberty Cinema, New Rohtak Rd, ",2412,62,899,4.4,4,Very,yes,yes,yes,yes,yes,yes,yes,yes
+146,Delhi,Capital O,O 85988 Dwarka Metro View,"delhi , ",2419,69,747,3.5,3,Good,no,no,no,no,no,no,no,no
+147,Delhi,Collection O,O 77161 Shalimar Bagh,"Shalimar Village., ",3047,70,899,3.7,2,Good,yes,yes,yes,yes,yes,yes,yes,yes
+148,Delhi,OYO,84730 Z-heart,"D-28 vishwakarma colony pul  delhi 110044, ",1938,64,695,4.3,1,Very,yes,yes,yes,yes,yes,yes,yes,yes
+149,Delhi,OYO,2064 Hotel The Spot,"New  , ",2080,66,688,4.3,9,Very,yes,yes,yes,yes,yes,yes,yes,yes
+150,Delhi,OYO,77731 DEL1488 Hmoca,"KHANPUR, ",1793,62,675,3.6,7,Good,yes,yes,yes,yes,yes,yes,yes,yes
+151,Delhi,OYO,16978 Hotel Sterling Inn,"Paharganj, ",1335,47,1335,4.7,3,Excellent,yes,yes,yes,yes,yes,yes,yes,yes
+152,Delhi,OYO,15835 Hotel City Palace,"Near New  Railway Station, ",2080,66,699,4.1,7,Very,yes,yes,yes,yes,yes,yes,yes,yes
+153,Delhi,Collection O,O 79356 Mahavir Enclave,"dwarka, ",2287,74,576,4.2,4,Very,yes,yes,yes,yes,yes,yes,yes,yes
+154,Delhi,OYO,81569 The Red Rose Inn,"India, ",2089,76,500,2.9,2,Fair,no,no,no,no,no,no,no,no
+155,Delhi,OYO,24436 Ramji 7 Grand,"Near Kirti Nagar Metro Station, ",2080,55,921,4.1,5,Very,yes,yes,yes,yes,yes,yes,yes,yes
+156,Delhi,Capital O,O 43002 Grand Bella,"Near Bus Stop, Chittaranjan Park, ",1420,47,1420,4.1,8,Very,yes,yes,yes,yes,yes,yes,yes,yes
+157,Delhi,OYO,87965 Padam Residency By Meet You There,"Main Market Shakarpur, ",2212,71,625,4.2,2,Very,yes,yes,yes,yes,yes,yes,yes,yes
+158,Delhi,OYO,82283 Hotel Royal City,", ",1920,67,625,3.9,1,Good,no,no,no,no,no,no,no,no
+159,Delhi,OYO,Flagship 71404 Rose Stay," India, ",2567,63,949,4.2,2,Very,no,no,no,no,no,no,no,no
+160,Delhi,OYO,78876 The Premium Villa,Near lajpat nagar metro station,2016,59,821,4.2,5,Very,yes,yes,yes,yes,yes,yes,yes,yes
+161,Delhi,OYO,HOME 85012 Dreamhouse,", ",1656,68,517,3.846496815,8,Fair,yes,yes,yes,yes,yes,yes,yes,yes
+162,Delhi,OYO,67019 Hotel Manali,"Dwarka, ",2361,58,973,2.7,5,Fair,yes,yes,yes,yes,yes,yes,yes,yes
+163,Delhi,SPOT ON,ON 77866 Mahalakshmi Inn,Near Ashram metro gate no 2,1962,59,799,3.2,8,Fair,no,no,no,no,no,no,no,no
+164,Delhi,OYO,77353 Tom & Jerry,"India, ",2999,81,550,3.9,0,Good,yes,yes,yes,yes,yes,yes,yes,yes
+165,Delhi,OYO,Flagship 85851 Bharat Stay,"New , ",2154,71,619,4.1,0,Very,yes,yes,yes,yes,yes,yes,yes,yes
+166,Delhi,OYO,13027 Shri Hari Kunj,"oppsite Kamala Karan Gas agency, ",2266,68,712,2.8,3,Fair,yes,yes,yes,yes,yes,yes,yes,yes
+167,Delhi,OYO,79394 Grand Palace 2,"India, ",2080,73,541,3.5,3,Good,no,no,no,no,no,no,no,no
+168,Delhi,OYO,Flagship 69247 Best Bikaner Smart,"Near Radha Swami Ashram, Narela, ",1958,67,646,3.2,6,Fair,no,no,no,no,no,no,no,no
+169,Delhi,OYO,75380 Hotel Shimla,"Near Dwarka mor metro station, Sector 15 Dwarka, ",2464,69,751,2.3,7,Fair,no,no,no,no,no,no,no,no
+170,Delhi,OYO,Flagship 86155 Hotel Shyam,"India, ",1958,67,628,4,9,Very,no,no,no,no,no,no,no,no
+171,Delhi,OYO,Flagship 76704 The Mayur Hotel,"Tri Nagar, ",2261,77,518,3.6,1,Good,yes,yes,yes,yes,yes,yes,yes,yes
+172,Delhi,OYO,78109 Premium Villa,"Near By Chattrapur Metro Station, ",3352,79,699,3.8,8,Good,no,no,no,no,no,no,no,no
+173,Delhi,OYO,10562 Paharganj,"Near New  Railway Station, ",2128,58,891,2.8,3,Fair,yes,yes,yes,yes,yes,yes,yes,yes
+174,Delhi,OYO,76738 Hotel Z Black,"KH-457/1, Near Shalimar Palace, Burari, -110084",1769,48,916,2.9,9,Fair,no,no,no,no,no,no,no,no
+175,Delhi,OYO,27979 Krishna Residency,"Near Iskcon Temple, kailash , ",2882,68,899,4,3,Very,no,no,no,no,no,no,no,no
+176,Delhi,OYO,85494 Osho Palace,"12,nagali rajapur, behind Lal Hotel, opposite hazarat Nizamuddin Metro Station gate no 2",2229,71,625,2.8,9,Fair,yes,yes,yes,yes,yes,yes,yes,yes
+177,Delhi,Collection O,O 9266 Hotel Kapoor Inn,"Near Kailash Colony Metro Station, ",1684,47,1684,3.3,2,Fair,yes,yes,yes,yes,yes,yes,yes,yes
+178,Delhi,OYO,22354 PG Hospitality Inn,"Near New  Railway Station, ",2253,66,747,3.9,4,Good,no,no,no,no,no,no,no,no
+179,Delhi,Collection O,O 85116 peaceful stay,Near Rajouri Garden Metro Station,1014,47,1014,4,8,Very,no,no,no,no,no,no,no,no
